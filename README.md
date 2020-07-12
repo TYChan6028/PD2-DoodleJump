@@ -1,2 +1,7 @@
-# PD2-DoodleJump
-資工系 程式設計（二）project 3
+# 2020-pd2-DoodleJump
+
+## Video link
+## How to play
+## Requirements
+## Polymorphism
+## Bonus

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pics/doodle.png</file>
+        <file>pics/winny_the_poo.png</file>
+        <file>pics/spring.png</file>
+        <file>pics/g_platform.png</file>
+        <file>pics/b_platform.png</file>
+        <file>pics/astroboots.png</file>
+        <file>pics/blackhole.png</file>
+    </qresource>
+</RCC>
