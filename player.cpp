@@ -87,7 +87,6 @@ void Player::bounce()
 
     // death condition here
     if (y() > 900) {
-        disconnect(timer, nullptr, this, nullptr);
         emit died();
     }
 
